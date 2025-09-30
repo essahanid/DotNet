@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "QhwTuPi4lVq7F9PaX+Xezo2Te2VH66FmZVCHhySf0rwVEC9hEYLugBF3M39QqEpEtEcrW4eYFCiAsB6DZdDynA==",
+  "success": true,
+  "projectFilePath": "D:\\essa\\upwork-us\\New folder\\Code\\AddTranspancyVideos\\AdTranspancyScrapper.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IT\\.nuget\\packages\\google.apis\\1.68.0\\google.apis.1.68.0.nupkg.sha512",
+    "C:\\Users\\IT\\.nuget\\packages\\google.apis.auth\\1.68.0\\google.apis.auth.1.68.0.nupkg.sha512",
+    "C:\\Users\\IT\\.nuget\\packages\\google.apis.core\\1.68.0\\google.apis.core.1.68.0.nupkg.sha512",
+    "C:\\Users\\IT\\.nuget\\packages\\google.apis.youtube.v3\\1.68.0.3421\\google.apis.youtube.v3.1.68.0.3421.nupkg.sha512",
+    "C:\\Users\\IT\\.nuget\\packages\\htmlagilitypack\\1.11.61\\htmlagilitypack.1.11.61.nupkg.sha512",
+    "C:\\Users\\IT\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\IT\\.nuget\\packages\\selenium.webdriver\\4.21.0\\selenium.webdriver.4.21.0.nupkg.sha512",
+    "C:\\Users\\IT\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\IT\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
