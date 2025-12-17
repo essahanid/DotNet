@@ -1,4 +1,4 @@
-# Project Name
+# eCommerce Solution
 
 > Short description of what this project does and who it is for.
 
