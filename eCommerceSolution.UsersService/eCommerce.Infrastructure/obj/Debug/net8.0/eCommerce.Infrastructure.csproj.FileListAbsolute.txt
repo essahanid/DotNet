@@ -1,0 +1,15 @@
+D:\microservices\eCommerceSolution.UsersService\eCommerce.Infrastructure\obj\Debug\net8.0\eCommerce.Infrastructure.csproj.AssemblyReference.cache
+D:\microservices\eCommerceSolution.UsersService\eCommerce.Infrastructure\obj\Debug\net8.0\eCommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\microservices\eCommerceSolution.UsersService\eCommerce.Infrastructure\obj\Debug\net8.0\eCommerce.Infrastructure.AssemblyInfoInputs.cache
+D:\microservices\eCommerceSolution.UsersService\eCommerce.Infrastructure\obj\Debug\net8.0\eCommerce.Infrastructure.AssemblyInfo.cs
+D:\microservices\eCommerceSolution.UsersService\eCommerce.Infrastructure\obj\Debug\net8.0\eCommerce.Infrastructure.csproj.CoreCompileInputs.cache
+D:\microservices\eCommerceSolution.UsersService\eCommerce.Infrastructure\bin\Debug\net8.0\eCommerce.Infrastructure.deps.json
+D:\microservices\eCommerceSolution.UsersService\eCommerce.Infrastructure\bin\Debug\net8.0\eCommerce.Infrastructure.dll
+D:\microservices\eCommerceSolution.UsersService\eCommerce.Infrastructure\bin\Debug\net8.0\eCommerce.Infrastructure.pdb
+D:\microservices\eCommerceSolution.UsersService\eCommerce.Infrastructure\bin\Debug\net8.0\eCommerce.Core.dll
+D:\microservices\eCommerceSolution.UsersService\eCommerce.Infrastructure\bin\Debug\net8.0\eCommerce.Core.pdb
+D:\microservices\eCommerceSolution.UsersService\eCommerce.Infrastructure\obj\Debug\net8.0\eCommerc.0C272DDA.Up2Date
+D:\microservices\eCommerceSolution.UsersService\eCommerce.Infrastructure\obj\Debug\net8.0\eCommerce.Infrastructure.dll
+D:\microservices\eCommerceSolution.UsersService\eCommerce.Infrastructure\obj\Debug\net8.0\refint\eCommerce.Infrastructure.dll
+D:\microservices\eCommerceSolution.UsersService\eCommerce.Infrastructure\obj\Debug\net8.0\eCommerce.Infrastructure.pdb
+D:\microservices\eCommerceSolution.UsersService\eCommerce.Infrastructure\obj\Debug\net8.0\ref\eCommerce.Infrastructure.dll
